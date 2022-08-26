@@ -1,6 +1,10 @@
 # **soundtrack**
-### A Plugin for the [DiscWorld MUD](http://discworld.starturtle.net/lpc/) - Play an area themed sound track whilst you disc!
+### A Plugin for the [DiscWorld MUD](http://discworld.starturtle.net/lpc/) - Plays area themed sound track for you whilst you disc!
+#### And much, much more...
 
+ * Uses area unique IDs to play different atmospheric sound tracks based on the area you are visiting (different sound track for cities, rural areas, whether it is night or day)
+ * Sound effects for the current weather conditions!
+ * Additional text-based triggers for your character class, such as witch flying sound effects (currently in development, /tell mickey with your suggestions if you feel your class is/has been neglected)
  * Released under GNU General Public Licence, V3.0 
  * Plays an area-themed soundtrack whilst you disc! Quality .wav files provided
  * **Prerequisite**: - you must have installed the [Quow minimap plugin](https://quow.co.uk/minimap.php)
