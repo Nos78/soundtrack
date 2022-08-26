@@ -55,3 +55,14 @@ You can turn the sounds on & off, as directed by the above help, by using `sound
 ### I cannot hear any music when I play, even with my PC volume at full!
 `soundtrack sounds` will output the location that the plugin expects to find its music files. This will often help you solve your issue - make sure you have all the wav files in this location. You probably did not keep the directory structure when extracting the .zip file. If you are comfortable editting code, you could try the above suggestion and edit this location.
 * The easier option is to create this folder (if it does not exist) in file manager and move the .wav files into it. If you already have other sounds in the same location, you could simply extract them from the soundtrack.zip file again.
+ 
+## Roadmap
+ #### Coming soon
+ Development of this plugin has not moved forward since Kilstrin quit - `finger kilstrin` indicate that he last logged off four years ago. There is only one link to his work remaining on google search, and that is a broken dropbox link in a reddit group post, where (presumably) kilstrin announced version 4 of his plugin.
+ 
+ Therefore I have taken ownership of developing this plugin and have created this github so that it won't get lost again!
+ 
+ - Things to do in the near future:
+ - - Update the plugin information and upload to github (done)
+ - - Update triggers so that they do not break other plugins (e.g. by stopping evaluating when one of our trigger conditions is met) (done)
+ - - Add witch sound effects (flying, whoosh, cackle, etc)
