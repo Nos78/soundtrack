@@ -1,9 +1,9 @@
 # **soundtrack**
+### A Plugin for the [DiscWorld MUD](http://discworld.starturtle.net/lpc/) - Play an area themed sound track whilst you disc!
+
  * Released under GNU General Public Licence, V3.0 
  * Plays an area-themed soundtrack whilst you disc! Quality .wav files provided
  * **Prerequisite**: - you must have installed the [Quow minimap plugin](https://quow.co.uk/minimap.php)
- 
-A Plugin for the [DiscWorld MUD](http://discworld.starturtle.net/lpc/) - Play an area themed sound track whilst you disc!
 
 **current version *v4.1***
 
